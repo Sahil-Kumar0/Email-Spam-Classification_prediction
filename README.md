@@ -1,5 +1,5 @@
-# Spam_prediction_on_sparse-text
-Spam prediction on sparse text
+#Email Spam Classification_prediction
+Email Spam Classification_prediction
 
 
 import pandas as pd
